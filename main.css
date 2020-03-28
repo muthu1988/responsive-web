@@ -1,0 +1,71 @@
+.body {
+    font-family: 'Varela Round', sans-serif;
+}
+.header {
+    font-family: 'Varela Round', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    display: block;
+    padding: 0.375rem;
+    color: #565d5e;
+    text-decoration: none;
+}
+.header-menu {
+    border-bottom: 2px solid rgba(255,255,255,.25);
+}
+.bg-light {
+    background-color: #F9F9F9;
+}
+.menu {
+    display: flex;
+    font-weight: normal;
+    font-size: 16px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.bg-menu1 {
+    color: white;
+    background-color: #39A7DF;
+}
+.bg-menu2 {
+    color: white;
+    background-color: #93C022;
+}
+.bg-menu3 {
+    color: white;
+    background-color: #F19106;
+}
+.bg-menu4 {
+    color: white;
+    background-color: #D31854;
+}
+.bg-footer {
+    font-size: 16px;
+    background-color: #516FAA;
+    color: white;
+}
+.bg-menu1 h2 {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.08125rem;
+    font-weight: 100;
+    color: white;
+}
+.bg-menu1 p {
+    font-size: 16px;
+    letter-spacing: 0.08125rem;
+    font-weight: 100;
+    color: white;
+}
+h2, h3, h4 {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.08125rem;
+    font-weight: 100;
+    color: #39A7DF
+}
+p {
+    letter-spacing: 0.08125rem;
+    font-weight: 100;
+    font-size: 16px;
+}
